@@ -1,0 +1,79 @@
+[
+    {
+        "id": 300,
+        "project_id": 201,
+        "name": "UI/UX designs",
+        "assigned_to": 1,
+        "status": "Completed"
+    },
+    {
+        "id": 301,
+        "project_id": 201,
+        "name": "Design Architecture",
+        "assigned_to": 1,
+        "status": "In Progress"
+    },
+    {
+        "id": 302,
+        "project_id": 201,
+        "name": "Develop Backend",
+        "assigned_to": 4,
+        "status": "Not Started"
+    },
+    {
+        "id": 303,
+        "project_id": 202,
+        "name": "Market Analysis",
+        "assigned_to": 2,
+        "status": "In Progress"
+    },
+    {
+        "id": 304,
+        "project_id": 203,
+        "name": "Campaign Planning",
+        "assigned_to": 3,
+        "status": "Completed"
+    },
+    {
+        "id": 305,
+        "project_id": 204,
+        "name": "Recruitment Drive",
+        "assigned_to": 5,
+        "status": "In Progress"
+    },
+    {
+        "id": 306,
+        "project_id": 205,
+        "name": "System Integration",
+        "assigned_to": 6,
+        "status": "Not Started"
+    },
+    {
+        "id": 307,
+        "project_id": 206,
+        "name": "Sales Pitch",
+        "assigned_to": 7,
+        "status": "Completed"
+    },
+    {
+        "id": 308,
+        "project_id": 207,
+        "name": "Social Media Strategy",
+        "assigned_to": 8,
+        "status": "In Progress"
+    },
+    {
+        "id": 309,
+        "project_id": 208,
+        "name": "Employee Training",
+        "assigned_to": 9,
+        "status": "Not Started"
+    },
+    {
+        "id": 310,
+        "project_id": 209,
+        "name": "Frontend Development",
+        "assigned_to": 10,
+        "status": "In Progress"
+    }
+]

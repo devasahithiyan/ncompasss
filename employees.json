@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Alice Smith",
+        "department": "Engineering",
+        "email": "alice.smith@company.com",
+        "salary": 90000
+    },
+    {
+        "id": 2,
+        "name": "Bob Johnson",
+        "department": "Sales",
+        "email": "bob.johnson@company.com",
+        "salary": 70000
+    },
+    {
+        "id": 3,
+        "name": "Charlie Brown",
+        "department": "Marketing",
+        "email": "charlie.brown@company.com",
+        "salary": 65000
+    },
+    {
+        "id": 4,
+        "name": "David Wilson",
+        "department": "Engineering",
+        "email": "david.wilson@company.com",
+        "salary": 95000
+    },
+    {
+        "id": 5,
+        "name": "Eva Green",
+        "department": "HR",
+        "email": "eva.green@company.com",
+        "salary": 60000
+    },
+    {
+        "id": 6,
+        "name": "Frank Harris",
+        "department": "Engineering",
+        "email": "frank.harris@company.com",
+        "salary": 85000
+    },
+    {
+        "id": 7,
+        "name": "Grace Lee",
+        "department": "Sales",
+        "email": "grace.lee@company.com",
+        "salary": 75000
+    },
+    {
+        "id": 8,
+        "name": "Helen White",
+        "department": "Marketing",
+        "email": "helen.white@company.com",
+        "salary": 70000
+    },
+    {
+        "id": 9,
+        "name": "Ian Thompson",
+        "department": "HR",
+        "email": "ian.thompson@company.com",
+        "salary": 62000
+    },
+    {
+        "id": 10,
+        "name": "Jane King",
+        "department": "Engineering",
+        "email": "jane.king@company.com",
+        "salary": 88000
+    }
+]
+
+
